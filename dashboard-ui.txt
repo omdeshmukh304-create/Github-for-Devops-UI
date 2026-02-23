@@ -1,1 +1,2 @@
 dashboard-ui.txt
+Dashboard API connected
